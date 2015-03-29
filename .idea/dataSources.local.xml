@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails vrblog: development" uuid="d2629f94-b4d1-44a6-b00f-ce72101d4495">
+      <user-name>vic</user-name>
+      <user-password>df92df9bdf9adf98df93df9ddf9ddfcbdfcb</user-password>
+      <schema-pattern>blog_development.pg_catalog blog_development.public</schema-pattern>
+      <default-schemas>blog_development.pg_catalog blog_development.public</default-schemas>
+    </data-source>
+    <data-source name="Rails vrblog: test" uuid="84a2682a-3073-4850-9cbb-6bd81f335775">
+      <first-sync>true</first-sync>
+      <user-name>vic</user-name>
+      <user-password>df92df9bdf9adf98df93df9ddf9ddfcbdfcb</user-password>
+    </data-source>
+    <data-source name="Rails vrblog: production" uuid="bc0c6d93-fb43-4d5a-b5a1-5a1f44cbf5c4">
+      <first-sync>true</first-sync>
+      <user-name>vic</user-name>
+      <user-password>df92df9bdf9adf98df93df9ddf9ddfcbdfcb</user-password>
+    </data-source>
+  </component>
+</project>
