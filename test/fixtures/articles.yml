@@ -3,9 +3,13 @@
 one:
   title: MyString
   body: MyText
-  published_at: 2015-03-26 21:19:35
+  location: MyString
+  exerpt: MyString
+  published_at: 2015-03-27 15:48:17
 
 two:
   title: MyString
   body: MyText
-  published_at: 2015-03-26 21:19:35
+  location: MyString
+  exerpt: MyString
+  published_at: 2015-03-27 15:48:17
